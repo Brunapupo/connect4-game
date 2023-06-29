@@ -1,4 +1,4 @@
-Este é o projeto final da disciplina INE5402 - Programação Orientada a Objetos. O objetivo é aplicar os conceitos aprendidos durante o curso de Poo1
+Este é o projeto final da disciplina INE5402 - Programação Orientada a Objetos. O objetivo é aplicar os conceitos aprendidos durante o curso. FFoi desenvolvido um Jogo Ligue 4! O jogo roda localmente na linguagem Python.
 
 • Python básico: variáveis, tipos de dados, estruturas de controle de fluxo, loops de repetição, funções básicas.
 
