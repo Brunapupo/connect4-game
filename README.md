@@ -1,9 +1,5 @@
-Este é o projeto final da disciplina INE5402 - Programação Orientada a Objetos. O objetivo é aplicar os conceitos aprendidos durante o curso. Foi desenvolvido um Jogo Ligue 4! O jogo roda localmente na linguagem Python.
+O jogo Connect Four é um desafio divertido que requer estratégia e raciocínio. O objetivo é conectar quatro peças da mesma cor em uma grade, tanto na vertical, horizontal quanto na diagonal.
 
-• Python básico: variáveis, tipos de dados, estruturas de controle de fluxo, loops de repetição, funções básicas.
+Para desenvolver o jogo Connect Four, utilizei a linguagem Python, aplicando conceitos como variáveis, tipos de dados, estruturas de controle de fluxo, loops de repetição e funções básicas. Além disso, é importante compreender os princípios de orientação a objetos, como classes, objetos, métodos, encapsulamento, herança e polimorfismo.
 
-• Orientação a objetos: classes, objetos, métodos, encapsulamento, herança, polimorfismo.
-
-• Matrizes: criação, operações básicas, resolução de problemas simples.
-
-• Princípios básicos: boas práticas de programação, legibilidade de código, modularização, reutilização de código, documentação.
+Outro aspecto relevante é o uso de matrizes, fundamentais para criar a grade do jogo, realizar operações básicas e resolver problemas simples relacionados a ele.
